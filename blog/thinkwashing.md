@@ -1,7 +1,7 @@
 ---
 title: ‘Thinkwashing’ Keeps People From Taking Action in Times of Crisis
-authors: endi
-tags: [hello, docusaurus]
+authors: nelson
+tags: [psychology, global-awareness]
 ---
 
 
@@ -39,4 +39,10 @@ These critiques can be vitally important. Yet technology is, in fact, changing t
 
 While certainty is comforting, both optimism and pessimism gamble with the nuance necessary for progress. Allowing the uninformed, unqualified speculations of billionaires to set the stage for such urgent discussions keeps concerned citizens on a hyperreal hamster wheel, far removed from the real action.
 
+:::tip DELIBERATION IS IMPORTANT 
+
 DELIBERATION IS IMPORTANT in both public and private sector leadership. But action remains the goal. “For all the words, for all the targets, for all the, you know, moral entanglements” of the climate crisis, says Stuart Capstick, a senior research fellow in psychology at Cardiff University, there is still a bottom line. To avoid mass death and destruction, we must decarbonize. A similar line exists for threats to democracy, human rights, and other core values; complicate them all you want, we must do something and we know at least a little bit about how.
+:::
+
+
+
