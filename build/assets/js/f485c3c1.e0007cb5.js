@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngo_report=self.webpackChunkngo_report||[]).push([[662],{8329:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"global-awareness","count":2,"permalink":"/blog/tags/global-awareness"}')}}]);

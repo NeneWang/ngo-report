@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngo_report=self.webpackChunkngo_report||[]).push([[518],{4211:function(o){o.exports=JSON.parse('{"permalink":"/blog/tags/psychology","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

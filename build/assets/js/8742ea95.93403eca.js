@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngo_report=self.webpackChunkngo_report||[]).push([[765],{5935:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/global-awareness","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
