@@ -69,7 +69,7 @@ merge-to-deployment:
 
 ft-push:
 	git ftp push 
-	echo "open in https://smooth.l0l.in" && git log -n 2
+	echo "open in https://items.l0l.in" && git log -n 2
 	
 ft-configpush:
 	git config git-ftp.url ftp://ftp.${FTP_HOST}
