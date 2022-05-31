@@ -5,6 +5,9 @@ title: Introduction
 
 ## NGO Global Report
 
+:::note
 
-## Vision Statement
+Introduction and roadmap etc
+
+:::
 
