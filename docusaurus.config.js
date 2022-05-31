@@ -57,8 +57,8 @@ const config = {
           },
           { to: '/blog', label: 'Trends', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://discord.gg/nw7rFw7H',
+            label: 'Discord',
             position: 'right',
           },
         ],
