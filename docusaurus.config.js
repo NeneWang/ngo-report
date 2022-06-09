@@ -57,7 +57,7 @@ const config = {
           },
           { to: '/blog', label: 'Trends', position: 'left' },
           {
-            href: 'https://discord.gg/nw7rFw7H',
+            href: 'https://discord.gg/nBpJcY6udt',
             label: 'Discord',
             position: 'right',
           },
