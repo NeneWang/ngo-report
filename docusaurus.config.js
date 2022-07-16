@@ -29,13 +29,23 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'resources',
+        path: 'resources/intro',
+        routeBasePath: 'resources',
+        sidebarPath: require.resolve('./sidebars.js'),
+      }
     ],
   ],
 
@@ -48,14 +58,17 @@ const config = {
           alt: 'NGO GLOBAL REPORT',
           src: 'img/ngo-logo-only.svg',
         },
-        items: [
-          {
+        items: [{
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'About',
           },
-          { to: '/blog', label: 'Trends', position: 'left' },
+          {
+            to: '/blog',
+            label: 'Trends',
+            position: 'left'
+          },
           {
             href: 'https://discord.gg/nBpJcY6udt',
             label: 'Discord',
@@ -65,8 +78,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-        ],
+        links: [],
         copyright: `Copyright © ${new Date().getFullYear()}`,
       },
       prism: {
