@@ -74,6 +74,11 @@ const config = {
             label: 'Discord',
             position: 'right',
           },
+          {
+            to: '/resources/intro',
+            position: 'left',
+            label: 'Resources',
+          },
         ],
       },
       footer: {
