@@ -1,4 +1,4 @@
-# ENERGY AND INFRASTRUCTURE
+# Energy and Infrastructure
 
 #### Energy Sector Management Assistance Programme
 

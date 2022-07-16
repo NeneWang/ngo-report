@@ -1,4 +1,4 @@
-# EDUCATION
+# Education
 
 # Preston Fund for Girls’ Education
 
