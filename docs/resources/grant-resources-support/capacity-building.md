@@ -1,10 +1,8 @@
 # Capacity Building
 
-# Partnership for Capacity Building Program in
+# Partnership for Capacity Building Program in Africa
 
-# Africa
-
-## (PACT)
+**(PACT)**
 
 **What activities does the program fund?** Strengthening
 indigenous human capital and institutions to address the problem of
