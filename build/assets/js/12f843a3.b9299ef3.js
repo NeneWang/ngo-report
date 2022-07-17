@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkngo_report=self.webpackChunkngo_report||[]).push([[404],{6062:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"resources"}}')}}]);
