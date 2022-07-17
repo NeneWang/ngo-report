@@ -1,4 +1,6 @@
-# Energy and Infrastructure
+---
+title: Energy and Infrastructure
+---
 
 ## Energy Sector Management Assistance Programme
 
@@ -32,6 +34,7 @@ in touch with World Bank energy staff and can be contacted at
 address below. Further information is available on its website.
 
 **Website:** [http://www.esmap.org](http://www.esmap.org)
+
 **World Bank Unit:** ESMAP, Energy and Water Department.
 ESMAP is sponsored by a group of donors, the World Bank, and the
 United Nations Development Programme (UNDP). It is managed by
@@ -77,11 +80,13 @@ PPIAF donors have agreed to utilize World Bank procurement
 guidelines to implement PPIAF activities, the World Bank through
 its designated task managers execute activities on behalf of PPIAF.
 Proposals for country-specific activities require approval in writing
-from the relevant government.
+from the relevant government.\
+
 **How to apply?** Guidelines and information are available on the
 PPIAF website or from PPIAF Program Management.
 
 **Website:** [http://www.ppiaf.org](http://www.ppiaf.org)
+
 **World Bank Unit:** PPIAF Program Management Unit.
 
 **Contact Address:** e-mail: info@ppiaf.org

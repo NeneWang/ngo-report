@@ -10,6 +10,14 @@ FTP_PASSWORD=Ngo2022!
 
 main: build-commit ft-push
 
+
+c:
+	git pull
+	git add --all
+	git commit -m "${m} | ${YEAR_DATE}"
+	git push origin HEAD
+
+
 pres-c:
 	git pull
 	git add --all

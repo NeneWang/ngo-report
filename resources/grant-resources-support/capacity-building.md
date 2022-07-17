@@ -1,4 +1,6 @@
-# Capacity Building
+---
+title: Capacity Building
+---
 
 # Partnership for Capacity Building Program in Africa
 

@@ -1,4 +1,6 @@
-# Education
+---
+title: Education
+---
 
 # Preston Fund for Girls’ Education
 
@@ -14,6 +16,7 @@ education to promote girls’ enrollment and retention.
 programs, locally-based community organizations, NGOs, local
 women’s associations and women’s rights organizations, and
 coalitions focused on the issue of girls’ education.
+
 **How to apply?** Proposals should detail the specific challenges to
 girls’ access to education to be addressed by the project, and outline
 the project strategy and long-term plan for financial and program
@@ -21,6 +24,7 @@ sustainability. More information on the program and how to apply is
 available on the Global Fund for Women website.
 
 **Website:** [http://www.globalfundforwomen.org](http://www.globalfundforwomen.org)
+
 **World Bank Unit:** The Preston Fund was established in memory
 of Lewis Preston (former President of the World Bank) with funds
 
