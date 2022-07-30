@@ -35,3 +35,26 @@ Bershian
 - Try to engage what the communication of the schools to get in rotations.
 - Having them roll -> 
 - has to go through the Gnec Network and have studios. 
+
+Manhattan or Aimee in residential address then through GNEC and very access orientation
+- Orientation
+- To shoot 
+- to video. 
+
+
+Working with University Structure 
+
+- Some talking points. 
+- I can do wahtever into making a program
+
+- A board member is saying that she is willing to be an assistant.
+- GNeid 
+- What rob is doing. 
+
+
+## Important Points
+
+- Making Information with them gain Traction
+- 
+
+
