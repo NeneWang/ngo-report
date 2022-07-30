@@ -1,0 +1,37 @@
+# Media World
+
+1. Who support media in the non-profit world.
+2. Eventually they make some money. So people can make the person being interviewed. 
+3. Documentary Video and Can see taht the interested int he megaphone.
+
+
+## Newspapers
+
+- KArgng ddra they given hundred thousands
+- Podcasts to do interviews -> Have some time to put things together. On TV on video to link to programs that they are doing. Actually see the interviews. 
+- Cristina badges and commin things -> 
+
+- Sofia Luo -> She is the producer of one world initiative. They are a non-fprofit round. 
+- Putting things together into video production. 
+- Work for free -> They do video for sponsors on the videosphere. 
+- Sponsors
+
+
+## How can I start workign on this
+
+Bershian
+
+
+- Donors
+- Around in April  
+- We eventually have to make this as broad as possible
+- Tring to identify some media funding sources.
+
+
+- Hiring anyone is so expensive.
+- Even for that special program
+- IT sector -> All the plan for the as much as they can continue, everything for the organization.
+- That is you might reach out for Columbia Journalist, Musical Medial, and four year programs. CUNY, for weeks 
+- Try to engage what the communication of the schools to get in rotations.
+- Having them roll -> 
+- has to go through the Gnec Network and have studios. 

@@ -10,6 +10,10 @@
 
 - I think they will be happy doing for now a free agency system
 
+## Study Case: Toast Masters International
+
+[Toastmasters.org](https://www.toastmasters.org/leadership-central)
+- They provide a framework 
 
 
 

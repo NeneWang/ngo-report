@@ -31,6 +31,8 @@ But before this.
 
 ## Follow their Leader
 
+- You can perform your own research or contact NGO Global Report to request a free consultant.
+
 ## Speaking at Events
 
 ## Collaboration with Celebrities
