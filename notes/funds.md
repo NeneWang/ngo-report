@@ -52,9 +52,24 @@ Working with University Structure
 - What rob is doing. 
 
 
+
 ## Important Points
 
 - Making Information with them gain Traction
-- 
+- Strong Institutions. What we are mainly focusing
+- Connecting 
+- Analysze the donors for the most strongly correlated.
+
+![](/../img/2022-07-30-10-21-20.png)
 
 
+We can collect with the type of organizations
+
+![](/../img/2022-07-30-10-22-39.png)
+
+- Maybe the media that have internation with
+
+ Trying to connect the mission together
+
+ - Hey whats your mission? 
+ - Do you collaborate?
